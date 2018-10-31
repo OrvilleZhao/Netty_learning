@@ -1,0 +1,1 @@
+# Netty的核心组件* Channel* 回调* Future* 事件和ChannelHandler## Channel&emsp;&emsp; Channe1是Java NIO的一个基本构造</br>&emsp;&emsp; 它代表一个到实体(如一个硬件设备、一个文件、一个网络套接字或者一个能够执行一个或者多个不同的I/O操作的程序组件)的开放连接,如读操作和写操作。## 回调&emsp;&emsp; 一个回调其实就是一个方法,一个指向已经被提供给另一个方法的方法的引用。Netty在内部使用了回调
